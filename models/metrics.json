@@ -1,0 +1,14 @@
+{
+  "Random Forest": {
+    "accuracy": 0.8145,
+    "auc_roc": 0.8737671488829274,
+    "cv_auc_mean": 0.8818294910428669,
+    "cv_auc_std": 0.008533625111289373
+  },
+  "Logistic Regression": {
+    "accuracy": 0.8125,
+    "auc_roc": 0.8580142336772959,
+    "cv_auc_mean": 0.8702815830267709,
+    "cv_auc_std": 0.004217132834246033
+  }
+}
